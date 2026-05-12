@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Soundbox</string>
+    <string name="service_status">Not Activated</string>
+</resources>
